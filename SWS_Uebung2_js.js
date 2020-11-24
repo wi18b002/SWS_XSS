@@ -1,1 +1,1 @@
-alert("Hello World");
+alert("Greetings from wi18b002");
